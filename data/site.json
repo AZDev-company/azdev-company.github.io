@@ -1,0 +1,15 @@
+{
+  "company": "AZ DEV",
+  "contact": {
+    "email": "az.dez2026@gmail.com",
+    "phone": "+201129820937"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/azdev.company/",
+    "facebook": "https://www.facebook.com/AZdevelopment/"
+  },
+  "tagline": {
+    "en": "Software development for ambitious products.",
+    "ar": "تطوير برمجيات لمنتجات تستحق أن تكبر."
+  }
+}
